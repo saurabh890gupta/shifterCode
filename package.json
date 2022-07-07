@@ -33,7 +33,7 @@
     "json2xls": "^0.1.2",
     "jsonwebtoken": "^8.5.1",
     "mammoth": "^1.4.8",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongo-xlsx": "^1.0.12",
     "mongoose": "^5.5.12",
     "multer": "^1.4.1",
